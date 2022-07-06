@@ -1,0 +1,8 @@
+body {
+    background-image: url("image.jpg");
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left;
+    background-size: 400px, 200px;
+}
